@@ -1,0 +1,7 @@
+C:\Mphasis dot net\Day 16\Assignment 21.2\Assignment 21.2\bin\Debug\Assignment 21.2.exe.config
+C:\Mphasis dot net\Day 16\Assignment 21.2\Assignment 21.2\bin\Debug\Assignment 21.2.exe
+C:\Mphasis dot net\Day 16\Assignment 21.2\Assignment 21.2\bin\Debug\Assignment 21.2.pdb
+C:\Mphasis dot net\Day 16\Assignment 21.2\Assignment 21.2\obj\Debug\Assignment 21.2.csproj.AssemblyReference.cache
+C:\Mphasis dot net\Day 16\Assignment 21.2\Assignment 21.2\obj\Debug\Assignment 21.2.csproj.CoreCompileInputs.cache
+C:\Mphasis dot net\Day 16\Assignment 21.2\Assignment 21.2\obj\Debug\Assignment 21.2.exe
+C:\Mphasis dot net\Day 16\Assignment 21.2\Assignment 21.2\obj\Debug\Assignment 21.2.pdb
